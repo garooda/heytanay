@@ -7,14 +7,11 @@
 - ⚡ Fun fact: San Marino is the world's oldest Republic...
 
     <div>
-        
-                <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
+        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
         <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>    
             <div id="1c43d347-62af-4086-beb5-d9f94d8e1648" class="plotly-graph-div" style="height:100%; width:100%;"></div>
             <script type="text/javascript">
-                
                     window.PLOTLYENV=window.PLOTLYENV || {};
-                    
                 if (document.getElementById("1c43d347-62af-4086-beb5-d9f94d8e1648")) {
                     Plotly.newPlot(
                         '1c43d347-62af-4086-beb5-d9f94d8e1648',
@@ -23,6 +20,5 @@
                         {"responsive": true}
                     )
                 };
-                
             </script>
         </div>
