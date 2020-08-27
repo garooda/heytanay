@@ -9,9 +9,8 @@
 
 - 👯 I’m looking to collaborate on **Kaggle Competitions**
 
-- 👨‍💻 All of my projects are available at [tanaymehta.codes](tanaymehta.codes)
-
-- 📝 I regulary write articles on [heytanay.github.io](heytanay.github.io)
+- 👨‍💻 All of my projects are available at **Here**
+- 📝 I regulary write articles on [heytanay.github.io](https://heytanay.github.io)
 
 - 💬 Ask me about **PyTorch, Tensorflow, Doctor Who**
 
