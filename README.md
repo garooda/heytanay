@@ -1,23 +1,31 @@
-![Me!](https://github.com/heytanay/heytanay/blob/master/tanay_profile.png)
+<h1 align="center">Hi 👋, I'm Tanay Mehta</h1>
+<h3 align="center">I am a CompSci Sophomore, Deep Learning Enthusiast and a Fellow Kaggler!</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-tanaymehta28-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanaymehta28/)](https://www.linkedin.com/in/tanaymehta28/) [![Instagram Badge](https://img.shields.io/badge/-tanaymehta28-magenta?style=flat-round&logo=Instagram&logoColor=white&link=https://www.instagram.com/shesellsseashellsondseashore/)](https://www.instagram.com/shesellsseashellsondseashore/) [![Blog Badge](https://img.shields.io/badge/-heytanay.github.io-blue?style=flat-round&logo=Blog&logoColor=blue&link=https://heytanay.github.io)](https://heytanay.github.io) [![Gmail Badge](https://img.shields.io/badge/-heyytanay@gmail-red?style=flat-round&logo=Gmail&logoColor=blue&link=mailto:heyytanay@gmail.com)](mailto:heyytanay@gmail.com) ![GitHub followers](https://img.shields.io/github/followers/heytanay?label=Github%20Followers&style=social)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heytanay" alt="heytanay" /> </p>
 
----
-## Who am I?
-I am a CompSci Sophomore :atom:, Deep Learning Enthusiast and a Fellow Kaggler!
+- 🔭 I’m currently working in **Deep Learning**
 
-I like doing Deep Learning on Big Datasets and currently learning and applying my skills on [Kaggle](https://www.kaggle.com/heyytanay).
+- 🌱 I’m currently learning **Statistical Machine Learning**
 
-## What have I done?
-I have graduated from Udacity with a Machine Learning Engineer Nanodegree 🎇 and have done Data Scientist Career track (among other tracks) from DataCamp 📊.
+- 👯 I’m looking to collaborate on **Kaggle Competitions**
 
-Not much tho 😭.
+- 👨‍💻 All of my projects are available at [tanaymehta.codes](tanaymehta.codes)
 
-## What's my Schedule in Quarantine?
-![Quarantine Schedule](https://github.com/heytanay/heytanay/blob/master/pie_chart.png)
+- 📝 I regulary write articles on [heytanay.github.io](heytanay.github.io)
 
-Find me here:
-- [LinkedIn](https://www.linkedin.com/in/tanaymehta28/)
-- [Data Science Blog](https://heytanay.github.io/)
-- [Kaggle Profile](https://www.kaggle.com/heyytanay)
-- [Personal Website](http://www.tanaymehta.codes/)
+- 💬 Ask me about **PyTorch, Tensorflow, Doctor Who**
+
+- 📫 How to reach me **heyytanay@gmail.com**
+
+- ⚡ Fun fact **There's a solid chance that our Universe was created last Thursday**
+
+<p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heytanay&layout=compact&hide=html" alt="heytanay" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heytanay&show_icons=true" alt="heytanay" /></p>
+
+<p align="center">
+<a href="https://twitter.com/heyytanay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="heyytanay" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/tanaymehta28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tanaymehta28" height="30" width="30" /></a>
+<a href="https://kaggle.com/heyytanay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="heyytanay" height="30" width="30" /></a>
+<a href="https://instagram.com/heytanay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="heytanay" height="30" width="30" /></a>
+</p>
