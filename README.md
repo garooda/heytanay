@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **Deep Learning**
 
-- 🌱 I’m currently learning **Statistical Machine Learning**
+- 🌱 I’m currently learning **Probabilistic Reasoning and Statistical Analysis**
 
 - 👯 I’m looking to collaborate on **Kaggle Competitions**
 
