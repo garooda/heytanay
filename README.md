@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanay Mehta</h1>
-<h3 align="center">I am a CompSci Sophomore, Deep Learning Enthusiast and a Fellow Kaggler!</h3>
+<h3 align="center">I am a CompSci Junior Year Student, Deep Learning Enthusiast and a Kaggler!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heytanay" alt="heytanay" /> </p>
 
