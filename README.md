@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Kaggle Competitions**
 
-- 📝 I occasionally write articles on [heytanay.github.io](https://heytanay.github.io)
+- 📝 You can view my Portfolio at [heytanay.github.io](https://heytanay.github.io)
 
 - 💬 Ask me about **PyTorch, Tensorflow, Doctor Who**
 
