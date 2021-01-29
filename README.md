@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heytanay" alt="heytanay" /> </p>
 
-- 🔭 I’m currently working in **Deep Learning**
+- 🔭 I’m currently working on **NADL - Naive Automatic Differentiation Library**
 
 - 🌱 I’m currently learning **Probabilistic Reasoning and Statistical Analysis**
 
@@ -26,8 +26,4 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" width="95" height="50"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="95" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="node.js" width="105" height="40"/>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heytanay&layout=compact&hide=html" alt="heytanay" />
 </p>
