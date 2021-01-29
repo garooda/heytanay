@@ -27,6 +27,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="95" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="node.js" width="105" height="40"/>
 </p>
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heytanay&layout=compact&hide=html" alt="heytanay" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heytanay&layout=compact&hide=html" alt="heytanay" />
 </p>
