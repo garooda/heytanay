@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heytanay" alt="heytanay" /> </p>
 
-- 🔭 I’m currently working on **NADL - Naive Automatic Differentiation Library**
+- 🔭 I’m currently working on [**NADL - Naive Automatic Differentiation Library**](https://github.com/heytanay/nadl)
 
 - 🌱 I’m currently learning **Probabilistic Reasoning and Statistical Analysis**
 
