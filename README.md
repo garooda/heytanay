@@ -1,4 +1,4 @@
-<h1 align="center">Hello!, I'm Tanay Mehta<img src="https://raw.githubusercontent.com/heytanay/heytanay/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hello! I'm Tanay Mehta<img src="https://raw.githubusercontent.com/heytanay/heytanay/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">I am a Computer Science Junior Year Student, Deep Learning Enthusiast and a Kaggler!</h3>
 
@@ -11,9 +11,10 @@
 </p>
 
 <p align="center" style="font-size:25px">I make cool applications using Deep Learning 💻 and Statistical Data Analysis 📚.<br/>I also love making Interactive Visualizations 📊 and publishing my work on <a href="https://www.kaggle.com/heyytanay/">Kaggle!</a><br/>Occasionally, I write articles about Computer Science, Deep Learning, Machine Learning, Data Science along with other random topics on <a href="https://heytanay.github.io/blog/">my blog</a>.</p>
+<br>
+<!-- <hr> -->
 
-<hr>
-<h2 align="center">Technologies I've worked with</h3>
+<h2 align="center"><img src="https://raw.githubusercontent.com/heytanay/heytanay/master/thunderbolt.gif" width="30px">Technologies I've worked with</h3>
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
