@@ -11,10 +11,9 @@
 </p>
 
 <p align="center" style="font-size:25px">I make cool applications using Deep Learning 💻 and Statistical Data Analysis 📚.<br/>I also love making Interactive Visualizations 📊 and publishing my work on <a href="https://www.kaggle.com/heyytanay/">Kaggle!</a><br/>Occasionally, I write articles about Computer Science, Deep Learning, Machine Learning, Data Science along with other random topics on <a href="https://heytanay.github.io/blog/">my blog</a>.</p>
-<br>
 <!-- <hr> -->
 
-<h2 align="center"><img src="bolt.gif" width="30px">Technologies I've worked with</h3>
+<h2 align="center"><img src="bolt.gif" width="30px">Technologies I've worked with</h2>
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -32,6 +31,8 @@
     <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+<br>
+<h2 align="center">My Github Profile from Hindsight</h2>
 [![](https://raw.githubusercontent.com/heytanay/heytanay/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br/>
 [![](https://raw.githubusercontent.com/heytanay/heytanay/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/heytanay/heytanay/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br/>
