@@ -10,7 +10,7 @@
 <a href="https://twitter.com/heyytanay"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40%20heyytanay"></a>
 </p>
 
-<p align="center" style="font-size:20px">I make cool applications using Deep Learning 💻 and Statistical Data Analysis 📚.<br/>I also love making Interactive Visualizations 📊 and publishing my work on <a href="https://www.kaggle.com/heyytanay/">Kaggle!</a><br/>Occasionally, I write articles about Computer Science, Deep Learning, Machine Learning, Data Science along with other random topics on <a href="heytanay.github.io/blog">my blog</a>.</p>
+<p align="center" style="font-size:25px">I make cool applications using Deep Learning 💻 and Statistical Data Analysis 📚.<br/>I also love making Interactive Visualizations 📊 and publishing my work on <a href="https://www.kaggle.com/heyytanay/">Kaggle!</a><br/>Occasionally, I write articles about Computer Science, Deep Learning, Machine Learning, Data Science along with other random topics on <a href="https://heytanay.github.io/blog/">my blog</a>.</p>
 
 <hr>
 <h2 align="center">Technologies I've worked with</h3>
