@@ -34,7 +34,16 @@
 <br>
 <h2 align="center">My Github Profile from Hindsight</h2>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/heytanay/heytanay/master/profile-summary-card-output/monokai/0-profile-details.svg" align='center'>
+    <br/>
+    <img src="https://raw.githubusercontent.com/heytanay/heytanay/master/profile-summary-card-output/monokai/1-repos-per-language.svg" align='center'>
+<!--     <br/> -->
+    <img src="https://raw.githubusercontent.com/heytanay/heytanay/master/profile-summary-card-output/monokai/2-most-commit-language.svg" align='center'>
+</div>
 
+<!--
 [![](https://raw.githubusercontent.com/heytanay/heytanay/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br/>
 [![](https://raw.githubusercontent.com/heytanay/heytanay/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/heytanay/heytanay/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br/>
+-->
