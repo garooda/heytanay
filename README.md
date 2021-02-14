@@ -32,7 +32,7 @@
 </p>
 
 <br>
-<h2 align="center">My Github Profile from Hindsight</h2>
+<h2 align="center">Quick Stats about my Github Profile</h2>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/heytanay/heytanay/master/profile-summary-card-output/monokai/0-profile-details.svg" align='center'>
