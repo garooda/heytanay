@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Tanay Mehta<img src="wave.gif" width="30px"></h1>
 
-<h3 align="center">I am a Computer Science Junior Year Student, Deep Learning Enthusiast and a Kaggle Expert!</h3>
+<h3 align="center">Kaggle Expert, Computer Science Undergrad, Deep Learning Enthusiast</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=heytanay" alt="heytanay" />
